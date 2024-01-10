@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Akash Portfolio</h1>
 
-<p id="description" align="center">Welcome to Akash Pawar's portfolio showcasing a talented software developer's skills projects and experience in crafting innovative solutions through code.</p>
+<p id="description">Welcome to Akash Pawar's portfolio showcasing a talented software developer's skills projects and experience in crafting innovative solutions through code.</p>
 
 
 <h2>🛠️ Installation Steps:</h2>
